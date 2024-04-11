@@ -1,0 +1,5 @@
+sys
+datetime
+inflect-7.0.0
+word2num-0.1.2
+pytest-8.1.1
