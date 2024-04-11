@@ -1,2 +1,2 @@
-inflect-7.0.0
-word2num-0.1.2
+inflect
+word2num
